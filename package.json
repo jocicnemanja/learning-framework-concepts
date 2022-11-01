@@ -4,7 +4,9 @@
   "license": "MIT",
   "scripts": {},
   "private": true,
-  "dependencies": {},
+  "dependencies": {
+    "@angular-architects/ddd": "^3.0.0"
+  },
   "devDependencies": {
     "@nrwl/nx-cloud": "latest",
     "nx": "15.0.3",
